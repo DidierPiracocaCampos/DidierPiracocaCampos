@@ -9,14 +9,6 @@
   <a href="mailto:piracocadidier@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0E?style=for-the-badge&logo=gmail&logoColor=34D399&labelColor=0B0B0E" alt="Email"/></a>
 </p>
 
-```console
-> inicializando portafolio ...
-> cargando proyectos ...
-> sistema listo ✔
-```
-
-## `$ cat about-me.txt`
-
 <img src="https://avatars.githubusercontent.com/DidierPiracocaCampos" width="150" align="right" alt="Didier Piracoca" style="border-radius:16px"/>
 
 Soy Didier — **desarrollador**, enfocado en construir software ***diseñado para evolucionar***.
@@ -99,18 +91,6 @@ me importa construir cosas que no solo funcionen, sino que sean **mantenibles**,
     </td>
   </tr>
 </table>
-
-## `$ git log --stats`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DidierPiracocaCampos&locale=es&border_radius=16&background=0B0B0E&border=26262B&stroke=26262B&ring=F5B82E&fire=F5B82E&currStreakNum=F3F1EC&sideNums=F3F1EC&currStreakLabel=F5B82E&sideLabels=B57BF7&dates=8B8B95" alt="Racha de contribuciones en GitHub" width="100%"/>
-</p>
-
-## `$ npm run contact`
-
-```console
-> inicializando modulo de contacto ...
-```
 
 <p>
   <a href="mailto:piracocadidier@gmail.com"><img src="https://img.shields.io/badge/piracocadidier@gmail.com-0B0B0E?style=for-the-badge&logo=gmail&logoColor=F5B82E" alt="Gmail"/></a>
